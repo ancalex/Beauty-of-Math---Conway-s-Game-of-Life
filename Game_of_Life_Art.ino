@@ -115,7 +115,7 @@ const uint8_t mMatrixWidth = 8;
 const uint8_t mMatrixHeight = 8;
 const uint8_t bMatrixWidth = 2;
 const uint8_t bMatrixHeight = 2;
-unsigned long density = 45;
+unsigned long density = 50;
 int generation = 0;
 int fading_step = 6;
 
